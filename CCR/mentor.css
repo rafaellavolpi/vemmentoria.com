@@ -1,0 +1,181 @@
+h1,
+h2,
+h3,
+body,
+p {
+  margin: 0;
+}
+
+main {
+    width: 1440px;
+    height: 1245px;
+    
+    
+  }
+  
+.coluna-maior {
+    background-color: #F5F5F5; 
+     display: inline-block;
+     position: absolute;
+     top: 80px;
+     left: 360px;
+     height: 1220px;
+     width: 1080px;
+    }
+   
+    .coluna-maior img {
+position: absolute;
+width: 192px;
+height: 192px;
+top: 101px;
+left: 32px;
+    }
+
+
+    .coluna-maior .mentor-info {
+        position: absolute;
+        width: 400px;
+        height: 143px;
+        top: 119px;
+        left: 258px;
+        padding: 20px;
+            }
+
+
+    .coluna-maior .mentor-info h1 {
+    position: absolute;
+    font-family: 'Quicksand', sans-serif;
+     font-weight: normal;
+     font-size: 36px;
+     line-height: 45px;
+    }
+
+
+    .coluna-maior .mentor-info img {
+    position: absolute;
+    top: 80px;
+    width: 145.2px;
+    height: 22px;
+    }
+
+
+    .coluna-maior .mentor-info p {
+        position: absolute;
+        width: 393px;
+        height: 27px;
+        top: 120px;
+        color: black;
+        
+        font-family: 'Lato', sans-serif;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 27px;
+        }
+   
+.coluna-maior .valor {
+    position: absolute;
+    width: 168px;
+    height: 91px;
+    top: 176px;
+    left: 732px;
+    padding: 20px;
+}
+
+.coluna-maior .valor h3 {
+    position: absolute;
+    width: 45px;
+    height: 27px;
+    top: 0;
+    left: 30px;
+    color: black;
+    
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    padding-left: 20px;
+}
+
+.coluna-maior .valor img {
+    position: absolute; 
+    width: 70px;
+    height: 70px;
+    top: 40px;
+}
+   
+.coluna-maior .valor p {
+    position: absolute;
+    width: 98px;
+    height: 27px;
+    top: 60px;
+    left: 90px;
+    color: black;
+    
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    
+}
+
+.coluna-maior .sobre {
+   position: absolute;
+    width: 543px;
+    height: 100px;
+    top: 328px;
+    left: 29px;
+    
+}
+
+.coluna-maior .sobre h3 {
+    position: absolute;
+    width: 68px;
+    top: 0;
+    left: 10px;
+    height: 29px;
+    color: black;
+       
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28.8px;
+    
+    
+}
+
+.coluna-maior .sobre p {
+    width: 543px;
+    height: 35px;
+    color: black;
+    margin-top: 40px;
+    
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16.8px;
+}
+
+
+
+.coluna-maior h3 {
+    position: absolute;
+    width: 630px;
+    height: 100px;
+    top: 565px;
+    left: 225px;
+        font-family: 'Lato', sans-serif;
+         font-weight: normal;
+         font-size: 24px;
+         line-height: 28.8px;
+           }
+
+.coluna-maior .whatsapp {
+    position: absolute;
+    width: 548px;
+    height: 64px;
+    top: 652px;
+    left: 266px;
+}
+
+        
+        

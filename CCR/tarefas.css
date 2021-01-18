@@ -1,0 +1,265 @@
+h1,
+h2,
+h3,
+body,
+p {
+  margin: 0;
+}
+
+main {
+  width: 1440px;
+  height: 1245px;
+  
+}
+
+.coluna-meio {
+    background-color: #f5f5f5;
+    position: absolute;
+    width: 713px;
+    height: 1245px;
+    left: 362px;
+}
+
+.coluna-meio h1 {
+    position: absolute;
+    width: 556px;
+    height: 46px;
+    top: 101px;
+    left: 76px;
+
+    font-family: "Quicksand", sans-serif;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 45px;
+}
+
+.coluna-meio .aprendizado {
+    position: absolute;
+    width: 530px;
+    height: 152px;
+    left: 89px;
+    top: 211px;
+    justify-content: space-between;
+}
+
+.coluna-meio .aprendizado .aprende {
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: inline-block;
+    padding: 5px;
+    margin-left: 5px;
+    
+    
+}
+
+.coluna-meio .aprendizado .aprende h2 {
+    width: 84px;
+    height: 26.4px;
+    top: 40px;
+    left: 30px;
+    
+    padding-top: 10px;
+    padding-left: 5px;
+    margin-left: 30px;
+
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 28.8px;
+    
+    }
+
+.coluna-meio .aprendizado .aprende .simbol {
+    width: 80px;
+    height: 72px;
+    top: 80px;
+    left: 50px;
+    margin: 10px;
+    padding-left:20px;
+    
+    
+}
+
+.coluna-meio .voce-sabia {
+    background-color: white;
+    position: absolute;
+    width: 550px;
+    height: 311px;
+    left: 92px;
+    top: 494px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+
+.coluna-meio .voce-sabia img {
+    position: absolute;
+    width: 62px;
+    height: 64px;
+    left: 35px;
+    top: 18px;
+}
+
+
+.coluna-meio .voce-sabia h1 {
+    position: absolute;
+    width: 150px;
+    height: 29px;
+    top: 40px;
+    left: 122px;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 28.8px;
+}
+
+.coluna-meio .voce-sabia .info p {
+    position: absolute;
+    width: 408px;
+    top: 88px;
+    left: 122px;
+    color: black;
+
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.coluna-meio .voce-sabia .info .primary-button {
+    position: absolute;
+    width: 318px;
+    height: 52px;
+    top: 192px;
+    left: 122px;
+}
+.coluna-game {
+    background-color: white;
+    position: absolute;
+    width: 366px;
+    height: 1200px;
+    left: 1074px;
+    padding: 10px;
+}
+
+
+
+.coluna-game .metas {
+ position: absolute;
+ width: 350px;
+ height: 363px;
+ top: 138px;
+ 
+ 
+
+}
+
+.coluna-game .metas h1 {
+    height: 30px;
+    top: 60x;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 28.8px;
+    margin-left: 10px;
+   
+}
+
+.coluna-game .metas .progressos {
+    width: 308px;
+    height: 72px;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+
+}
+
+.coluna-game .metas .progressos img {
+    width: 35px;
+    height: 35px;
+    top: 200px;
+    left: 26px;
+    }
+
+.coluna-game .metas .progressos h3 {
+    width: 150px;
+    height: 35px;
+    left: 56px;
+    top: 200px;
+    
+
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21.6px;
+    display: inline-block;
+    }   
+
+.coluna-game .metas .progressos p {
+    width: 79px;
+    height: 35px;
+    top: 200px;
+    left: 250px;
+    color: black;
+
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21.6px;
+}   
+
+
+
+.progresso {
+    width: 308px;
+    display: flex;
+}
+
+.barra {
+    width: 25%;
+    height: 10px;
+    background-color:#59c0d8;
+    }
+
+.incompleto {
+    opacity: 0.2;
+}
+
+
+.coluna-game .liga h1 {
+    position: absolute;
+    height: 30px;
+    top: 543px;
+    
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 28.8px;
+    
+    margin-left: 10px;
+}
+
+
+.coluna-game .liga p {
+    position: absolute;
+    width: 280px;
+    height: 30px;
+    top: 583px;
+    color: black;
+    
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 16.8px;
+}
+
+
+.coluna-game .liga img {
+    position: absolute;
+    top: 635px;
+}
+
+

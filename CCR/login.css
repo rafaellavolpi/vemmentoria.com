@@ -1,0 +1,76 @@
+h1,
+h2,
+h3,
+body,
+p {
+  margin: 0;
+}
+
+main {
+  background-color: #e4f4ff;
+  width: 1440px;
+  height: 857px;
+}
+
+main .imagem {
+  width: 820px;
+  height: 857px;
+  top: 60px;
+  display: inline-block;
+}
+
+main .logo2 {
+  position: absolute;
+  width: 271.51px;
+  height: 151.67px;
+  margin-left: 162px;
+  margin-top: 86px;
+  margin-bottom: 10px;
+}
+
+main .acesso {
+  position: absolute;
+  width: 400px;
+  height: 480px;
+  margin-left: 63px;
+  margin-top: 206px;
+
+  display: inline-block;
+  padding: 30px;
+  background-color: white;
+  border: 1px solid #59c0d8;
+  border-radius: 10px;
+}
+
+main .acesso h1 {
+  margin-left: 20px;
+}
+
+main .acesso .input-block {
+  font-family: "Lato", sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 10px;
+  padding: 10px;
+}
+
+.input-block label {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.input-block input {
+  width: 100%;
+  background: #e4f4ff;
+  border: 1px solid #59c0d8;
+  border-radius: 10px;
+  line-height: 2;
+}
+
+main .acesso p {
+  color: black;
+  padding-left: 25px;
+}
+
+

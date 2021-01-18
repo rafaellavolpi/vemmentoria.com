@@ -1,0 +1,35 @@
+footer {
+  background-color: #59c0d8;
+  color: white;
+  padding: 30px;
+  text-align: left;
+  font-family: "Lato", sans-serif;
+  width: 1440px;
+  padding: 30px;
+}
+
+footer .menu {
+  display: inline-block;
+  margin-right: 50px;
+  margin-left: 20px;
+  width: 160px;
+  height: 94px;
+}
+
+footer .contacts {
+  width: 160px;
+  font-weight: normal;
+  font-size: 14px;
+  display: inline-block;
+  align-items: left;
+
+  position: absolute;
+  margin-left: 118px;
+}
+
+footer .contacts .media {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
+

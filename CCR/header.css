@@ -1,0 +1,36 @@
+.barra {
+    display: flex;
+    justify-content: space-between;
+    background-color: #59c0d8;
+    width: 1440px;
+    height: 60px;
+  }
+  
+  .barra .menu {
+    display: inline-block;
+    padding: 20px;
+    margin-left: 20px;
+    width: 118px;
+  }
+  
+  .barra .login {
+    display: inline-block;
+    padding: 20px;
+    margin-left: 20px;
+    width: 118px;
+  }
+  
+  .barra .login .profile img {
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+  }
+  
+  .barra .login .profile,
+  p {
+    display: inline-block;
+    color: white;
+    padding-left: 10px;
+    line-height: 27px;
+  }
+  

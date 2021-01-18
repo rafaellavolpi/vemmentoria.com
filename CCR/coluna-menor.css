@@ -1,0 +1,65 @@
+.coluna-menor {
+    background-color: white;
+    display: inline-block;
+    position: absolute;
+    width: 367px;
+    top: 80px;
+    
+  }
+
+.profile .notification {
+    position: absolute;
+    width: 24px;
+    height: 27.05px;
+    top: 116.96px;
+    left: 250.07px;
+}
+
+.profile .profile {
+    position: absolute;
+    width: 87px;
+    height: 87px;
+    top: 137px;
+    left: 100px;
+
+}
+
+.profile h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 30px;
+
+    position: absolute;
+    width: 179px;
+    height: 30px;
+    top: 241px;
+    left: 94px;
+}
+
+.pages {
+    position: absolute;
+    top: 311px;
+}
+
+
+.coluna-menor img {
+    width: 20px;
+    height: 20px;
+    margin-left: 50px;
+    margin-right: 22px;
+}
+
+.coluna-menor li {
+    margin-top: 32px;
+    display: flex;
+    }
+
+.conteudo {
+    display: inline-block;
+}
+
+ul, ol {
+    list-style-type: none;
+    padding: 0;
+}

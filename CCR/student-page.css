@@ -1,0 +1,161 @@
+h1,
+h2,
+h3,
+body,
+p {
+  margin: 0;
+}
+
+main {
+  width: 1440px;
+  height: 1245px;
+  
+}
+
+  
+.coluna-maior {
+ background-color: #F5F5F5; 
+  display: inline-block;
+  position: absolute;
+  top: 80px;
+  left: 360px;
+  height: 1245px;
+  width: 1080px;
+ }
+
+.coluna-maior .estrelas {
+  position: absolute;
+  width: 133.17px;
+  height: 24px;
+  top: 81px;
+  left: 835px;
+
+}
+
+
+ .coluna-maior h1 {
+  position: absolute;
+  width: 180px;
+  height: 45px;
+  top: 143px;
+  left: 78px;
+  color: black;
+
+  font-family: 'Quicksand', sans-serif;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 45px;
+  
+}
+
+.coluna-maior .pontos {
+  position: absolute;
+  width: 891px;
+  height: 161px;
+  top: 254px;
+  left: 62px;
+  background-color: white;
+  align-items: center;
+}
+
+.coluna-maior .pontos .ponto {
+  width: 450px;
+  height: 105px;
+  top: 17px;
+  left: 60px;
+  display: inline-block;
+}
+
+.coluna-maior .pontos .coins {
+  position: absolute;
+  top: 17px;
+  left: 60px;
+  display: inline-block;
+}
+
+
+.coluna-maior .pontos .ponto p {
+  color: black;
+  width: 227px;
+  height: 29px;
+  top: 54px;
+  left: 60px;
+  margin-left: 166px;
+  display: inline-block;
+
+  font-family: 'Lato', sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28.8px;
+}
+
+
+
+.coluna-maior .avisos {
+  position: absolute;
+  top: 544px;
+  left: 62px;
+}
+
+.coluna-maior .avisos h1 {
+  position: absolute;
+  width: 180px;
+  height: 45px;
+  top: 60px;
+  left: 78px;
+  color: black;
+
+  font-family: 'Quicksand', sans-serif;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 45px;
+}
+
+.coluna-maior .avisos .informacao {
+position: absolute;
+width: 700px;
+height: 400px;
+top: 150px;
+left: 78px;
+
+
+}
+.coluna-maior .avisos .informacao .aviso {
+  top: 621px;
+  left: 62px;
+  width: 700px;
+  height: 161px;
+  left: 62px;
+  background-color: white;
+  align-items: left;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 30px;
+  margin-bottom: 20px;
+
+}
+
+.coluna-maior .avisos .informacao .aviso h3 {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 28.8px;
+}
+
+
+.coluna-maior .avisos .informacao .aviso p {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 27px;
+  color: black;
+}
+
+.coluna-maior .avisos .informacao .aviso .primary-button {
+  width: 231px;
+  height: 52px;
+  top: 75px;
+  left: 200;
+  
+  
+}
