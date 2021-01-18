@@ -29,10 +29,10 @@ Licença:
 Autora:
 >Sou bióloga e mestre em ciências, mas tenho me apaixonado cada vez mais pelo universo da tecnologia. Atualmente, estudo marketing e UX/UI design. Comecei a me inserir na programação à pouco tempo por querer ver meus projetos de UX funcionando.Fique à vontade para se conectar comigo: https://www.linkedin.com/in/rafaellaeduardavolpi/
 
->Colaboradoras:
-Todas: Desrk Research
-Beatriz e Estela: UI, Pitch
-Nadja, Rejane e Carol: Apresentação e Storytelling
+Colaboradoras:
+>Todas: Desrk Research
+>Beatriz e Estela: UI, Pitch
+>Nadja, Rejane e Carol: Apresentação e Storytelling
 
 Quem somos:
 >Um grupo de mulheres com diferentes afinidades, que se conheceu em um curso de UX design. Nos propusemos a desafiar a nós mesmas, adquirir novas habilidades e colocar em prática o que aprendemos durante o Bootcamp de UX que participamos.
